@@ -1,0 +1,28 @@
+.myth,
+.mytd {
+  border: 1px solid black;
+}
+.pozadi {
+  background-color: rgb(215, 173, 227);
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  color: blue;
+}
+.myul {
+  border: 1px solid black;
+  border-radius: 25px;
+}
+.mytable {
+  border-collapse: collapse;
+}
+.info {
+  width: 400px;
+  background-color: rgb(152, 93, 207);
+  border-radius: 25px;
+}
+.lososova {
+  background-color: pink;
+}
